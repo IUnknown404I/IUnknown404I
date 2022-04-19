@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> I'm Ruslan, <span color='blue'>Fullstack from Saint-Petersburg</span>
+  Hi there! I'm developer from Saint-Petersburg <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=9613F7&center=true&width=900&lines=Hey!+I'm+Fullstack+developer;TypeScript%2C+Next.js%2C+Nest.js%2C+Redux)](https://git.io/typing-svg)
