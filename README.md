@@ -2,7 +2,7 @@
   Hi there! I'm developer from Saint-Petersburg <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=9613F7&center=true&width=900&lines=Hey!+I'm+Fullstack+developer;TypeScript%2C+Next.js%2C+Nest.js%2C+Redux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=9613F7&center=true&width=900&lines=Hey!+I'm+Fullstack+developer;TypeScript%2C+Next.js%2C+Nest.js%2C+Redux%2C+PostgeSQL)](https://git.io/typing-svg)
 #
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IUnknown404I&theme=solarized_dark)
@@ -34,6 +34,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
