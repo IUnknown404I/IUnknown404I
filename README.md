@@ -5,10 +5,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=9613F7&center=true&width=900&lines=Hey!+I'm+Fullstack+developer;TypeScript%2C+Next.js%2C+Nest.js%2C+Redux%2C+PostgeSQL)](https://git.io/typing-svg)
 #
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IUnknown404I&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IUnknown404I&theme=solarized_dark)
+![Main](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IUnknown404I&theme=solarized_dark)
+![Main](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IUnknown404I&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IUnknown404I&theme=solarized_dark)
-#
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=IUnknown404I&name=true&top_languages=true&stroke=%23b362ff&stroke=%23BB432C&theme=solarized_dark) 
+# -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IUnknown404I&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IUnknown404I)](https://git.io/streak-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IUnknown404I&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
