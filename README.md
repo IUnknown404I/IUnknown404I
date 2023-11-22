@@ -10,8 +10,8 @@
 
 <div align="center">
   <img alt='Main' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IUnknown404I&theme=solarized_dark' />
+  <img alt='Top Langs' height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=IUnknown404I&layout=compact&theme=solarized-dark&langs_count=8' />
   <img alt='Commits' src='https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IUnknown404I&theme=solarized_dark' />
-  <img alt='Top Langs' height="200px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=IUnknown404I&layout=compact&theme=vue-dark&langs_count=8' />
 </div>
 
 <!-- ![Main](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IUnknown404I&theme=solarized_dark) -->
